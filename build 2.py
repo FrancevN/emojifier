@@ -8,4 +8,3 @@ def kek(a):
 stroka = input()
 for a in stroka:
     print(kek(a))
-

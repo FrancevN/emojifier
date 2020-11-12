@@ -9,4 +9,4 @@ def kek(em):
 
 stroka = input()
 for em in stroka:
-    print(kek(em))
+    print(kek(em), end="")

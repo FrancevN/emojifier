@@ -7,4 +7,4 @@ def kek(em):
             return key
 str = input()
 for em in str:
-    print(kek(em))
+    print(kek(em), end="")

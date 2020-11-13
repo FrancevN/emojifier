@@ -17,10 +17,3 @@ def emojify(text):
     for y in text:
         res += emoji.get(y)
     return res
-
-
-print(demojify('😜😍🤔😜'))
-print(emojify('test'))
-# stroka = input()
-# for em in stroka:
-#     print(kek(em), end="")
